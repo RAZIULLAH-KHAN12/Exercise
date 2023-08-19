@@ -1,2 +1,2 @@
 Git keep track of using called Head pointer.
-1234567 This is main1 branch.Yes i am develop branch.
+1234567 I merge with main1 branch.Yes i am develop branch.
